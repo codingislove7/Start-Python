@@ -1,0 +1,1 @@
+print("Your name have "+input("What is your name?").__len__().__str__()+" Characters")
